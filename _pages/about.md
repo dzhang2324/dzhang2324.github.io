@@ -15,4 +15,4 @@ As a UC Berkeley student, I do research in computer vision for radiological appl
 
 Outside of my technical hobbies, I like to play basketball, powerlift, and make and look for new music. 
 
-I am also an aspiring writer: this website was created in part to post my writings. You can look at them in the [Blog section.](https://dzhang2324.github.io/year-archive/)
+I would also like to start writing: this website was created in part to post them online. You can read them in the [Blog section.](https://dzhang2324.github.io/year-archive/)
