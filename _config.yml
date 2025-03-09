@@ -22,7 +22,7 @@ repository               : "dzhang2324/dzhang2324.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "R0001083 (1).JPG" # e.g. "profile.png"
+  avatar           : "R0001083 (1).jpg" # e.g. "profile.png"
   name             : "David Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Statistics and Economics at UC Berkeley"
